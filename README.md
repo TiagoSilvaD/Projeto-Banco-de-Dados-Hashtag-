@@ -1,4 +1,4 @@
-# 📊 Projeto de Banco de Dados — Hashtag
+# 📊 Projeto desenvolvido durante um curso básico de análise de dados, com o objetivo de praticar manipulação e análise de uma base de dados de cancelamentos de clientes utilizando Python e Pandas.
 
 Projeto desenvolvido para análise de cancelamentos e identificação de possíveis
 causas relacionadas à perda de clientes e vendas.
